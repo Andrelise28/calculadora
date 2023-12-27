@@ -1,10 +1,9 @@
 # calculadora
 
-> Calculadora usando Vue.js
+> Calculadora simples usando Vue.js
 
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install
 
